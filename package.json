@@ -1,0 +1,19 @@
+{
+  "name": "Challenge-Quicksort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "quicksort.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha -R spec --bail --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
